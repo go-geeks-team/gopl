@@ -1,0 +1,20 @@
+-test.paniconexit0 -test.timeout=10m0s -test.bench=.
+-test.paniconexit0 -test.timeout=10m0s -test.bench=.
+-test.paniconexit0 -test.timeout=10m0s -test.bench=.
+-test.paniconexit0 -test.timeout=10m0s -test.bench=.
+-test.paniconexit0 -test.timeout=10m0s -test.bench=.
+-test.paniconexit0 -test.timeout=10m0s -test.bench=.
+-test.paniconexit0 -test.timeout=10m0s -test.bench=.
+-test.paniconexit0 -test.timeout=10m0s -test.bench=.
+-test.paniconexit0 -test.timeout=10m0s -test.bench=.
+-test.paniconexit0 -test.timeout=10m0s -test.bench=.
+-test.paniconexit0 -test.timeout=10m0s -test.bench=.
+-test.paniconexit0 -test.timeout=10m0s -test.bench=.
+ 1000000	      1033 ns/op
+--- BENCH: BenchmarkMain-12
+    echo1_test.go:14: 0.000025 Sec.
+    echo1_test.go:14: 0.000162 Sec.
+    echo1_test.go:14: 0.010270 Sec.
+    echo1_test.go:14: 1.032692 Sec.
+PASS
+ok  	echo1	1.048s

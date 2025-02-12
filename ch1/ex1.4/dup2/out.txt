@@ -1,0 +1,4 @@
+2	in1.txt/subaru
+2	in2.txt/Astana
+3	in1.txt/bmw
+4	in3.txt/Lenovo
